@@ -1,2 +1,2 @@
-# foodcourt-cardsystem
- Conversion of the refectory of our school into a system with RFID card reader on the QT platform and creating an administrative interface.
+# warehouse-management-system(WMS)
+It is designed to store the product records of the dining hall and patisserie warehouse in our school in a computerized environment. Keeps records of products' entry and exit to the warehouse.
